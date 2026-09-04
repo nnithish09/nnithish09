@@ -105,6 +105,6 @@ Now    →   Contributing to open-source full stack & AI/ML projects
 <a href="https://twitter.com/nnithish78680" target="_blank"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=x&logoColor=D4A373"/></a>
 <a href="https://kaggle.com/nithishn27" target="_blank"><img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=D4A373"/></a>
 <a href="https://www.hackerrank.com/vvce23cseaiml0107" target="_blank"><img src="https://img.shields.io/badge/HackerRank-1a1a1a?style=for-the-badge&logo=hackerrank&logoColor=D4A373"/></a>
-<a href="https://instagram.com/nithissh.n" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=D4A373"/></a>
+<a href="https://instagram.com/nithisshh.n" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=D4A373"/></a>
 
 </div>
